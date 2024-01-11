@@ -7,7 +7,8 @@
 
 #### git commit - m "nome do que está sendo commitado" // sempre que adionar arquivo, deletar informaçoes ou o arquivo ou renomear, alterar algo, sempre será necessário fazer o git add . e depois commitar isso, a gente usa as aspas para sinalizar o que foi feito no arquivo. Cada commit gera um código e mostra em qual branch foi feito isso: por ex. [master (root-commit) 69b873d] primeiras notas de aulas
 
-#### push para o git remote e pull para o git local e add do READ.me
+#### git push // adiciona o que tem no git local para git remote
+#### git pull // adiciona o que tem no git remote para o git local 
 
 
 
